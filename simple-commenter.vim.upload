@@ -39,6 +39,12 @@ install_details:
 
     See Vimana on github:  http://github.com/c9s/vimana
 
+    With pathogen(https://github.com/tpope/vim-pathogen):
+
+    $ cd ~/.vim
+    $ mkdir -p bundle && cd bundle
+    $ git clone https://github.com/vitalk/simple-commenter.vim
+
     Or copy simplecommenter.vim to your ~/.vim/plugin/
 
 version_note:
