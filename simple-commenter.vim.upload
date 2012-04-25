@@ -18,7 +18,7 @@ script_id:
 
     3005
 
-script_version: 
+script_version:
 
     0.1
 
@@ -35,7 +35,7 @@ description:
 
 install_details:
 
-    $ vimana i simplecommenter.vim 
+    $ vimana i simplecommenter.vim
 
     See Vimana on github:  http://github.com/c9s/vimana
 
